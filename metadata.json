@@ -1,0 +1,8 @@
+{
+  "name": "BreakBite — Campus Cafeteria Pre-Order & Queue Skipper",
+  "description": "Beat the rush during short 10-minute class breaks. Browse campus cafeteria stalls, view live prep times, pay ahead, and pick up without waiting in queues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
